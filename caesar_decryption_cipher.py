@@ -1,7 +1,5 @@
-# FELIX KIPRONO BETT
-# felix.bett@azubiafrica.org
-
 print('\nWELCOME! HERE IS A SIMPLE CAESAR CIPHER DECRYPTION TOOL. \n______________________________________________________________')
+
 # string module imported
 # contains but not limited to lowercase and uppercase alphabet and punctuations required for,
 # mapping to each letter or character of user input and shifting the user input to return the decrypted message

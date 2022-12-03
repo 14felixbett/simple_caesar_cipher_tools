@@ -1,8 +1,5 @@
-# FELIX KIPRONO BETT
-# felix.bett@azubiafrica.org
-# PEER GROUP 2
-
 print('\nWELCOME! HERE IS A SIMPLE CAESAR CIPHER ENCRYPTION TOOL. \n______________________________________________________________')
+
 # string module imported
 # contains but not limited to lowercase and uppercase alphabet and punctuations required for,
 # mapping to each letter or character of user input and shifting the user input to form a new encrypted message
