@@ -1,4 +1,6 @@
-# **PROJECT QUESTION**
+# **SIMPLE CAESAR CIPHER**
+
+## **Project Question**
 The IT team needs to comply with the companies' policies on data privacy. Your boss tasks you to write an algorithm to encrypt and decrypt its internal messages using Caesar cipher.
 
 # INTRODUCTION
@@ -15,9 +17,9 @@ For example, with a left shift of 3;
 
 ![Left Shift 'E' by 3 Positions](./pics/3_left_shift_E.png)
 
-Decryption is done in reverse with a right shift of 3
+**`Decryption is done in reverse with a right shift of 3`**
 
-# Encryption and Decryption Process
+# **Encryption and Decryption Process**
 ## **Step 1**
 Importing the `string` module
 
